@@ -1,0 +1,11 @@
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\bin\Debug\HospitalDB.exe.config
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\bin\Debug\HospitalDB.exe
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\bin\Debug\HospitalDB.pdb
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\obj\Debug\HospitalDB.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\obj\Debug\HospitalDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\obj\Debug\HospitalDB.Form1.resources
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\obj\Debug\HospitalDB.Properties.Resources.resources
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\obj\Debug\HospitalDB.csproj.GenerateResource.cache
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\obj\Debug\HospitalDB.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\obj\Debug\HospitalDB.exe
+C:\Users\Murad\source\repos\HospitalDB\HospitalDB\obj\Debug\HospitalDB.pdb
